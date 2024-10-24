@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 
 👋 Hi there, my name is Gustavo Lopes Nomelini
 
