@@ -28,8 +28,10 @@ I enjoy learning new technologies and continuously improving my coding skills. �
 🤝 Feel free to reach out for collaboration or just to say hello!
 
 ## 📫 How to Reach Me
-- **Email**: [gustavolnomelin@gmail.com](mailto:gustavolnomelini@gmail.com)
+- **Email**: [gustavolnomelini@gmail.com](mailto:gustavolnomelini@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gustavo-lopes-nomelini-144bb1212/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolnomelini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lopes-nomelini-144bb1212/)
 
 ## Languages and Tools
 
