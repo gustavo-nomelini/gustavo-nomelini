@@ -5,7 +5,9 @@
 Actually working at Stein Telecomunicações as backend Java Developer
 
 I'm a Java Developer currently studying Software Engineering. 
+
 My passion lies in building scalable, efficient, and robust software solutions. 
+
 I enjoy learning new technologies and continuously improving my coding skills. 🚀
 
 # What I do:
