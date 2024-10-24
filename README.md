@@ -1,6 +1,10 @@
-## Hi there, my name is Gustavo Lopes Nomelini
+## ABOUT ME
 
-👋 Hi there! I'm a Java Developer currently studying Software Engineering. My passion lies in building scalable, efficient, and robust software solutions. I enjoy learning new technologies and continuously improving my coding skills. 🚀
+👋 Hi there, my name is Gustavo Lopes Nomelini
+
+I'm a Java Developer currently studying Software Engineering. 
+My passion lies in building scalable, efficient, and robust software solutions. 
+I enjoy learning new technologies and continuously improving my coding skills. 🚀
 
 # What I do:
 ☕️ **Java Development:** Strong proficiency in developing back-end applications and services.
