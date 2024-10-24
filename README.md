@@ -1,7 +1,8 @@
 # ABOUT ME 
 
-👋 Hi there, my name is Gustavo Lopes Nomelini, im from Cascavel-Paraná, Brasil
-actually working at Stein Telecomunicações as backend Java Developer
+👋 Hi there, my name is Gustavo Lopes Nomelini, I'm from Cascavel-Paraná, Brasil
+
+Actually working at Stein Telecomunicações as backend Java Developer
 
 I'm a Java Developer currently studying Software Engineering. 
 My passion lies in building scalable, efficient, and robust software solutions. 
@@ -33,16 +34,20 @@ I enjoy learning new technologies and continuously improving my coding skills. �
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gustavo-lopes-nomelini-144bb1212/)
 
 
-## Languages and Tools
+## Languages, Tools and Frameworks
 
-- **Languages**: 
+- **Languages**:
+  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Tools**:
+
+- **Tools and Frameworks**:
+  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
   ![Zsh](https://img.shields.io/badge/Zsh-5E0E02?style=for-the-badge&logo=gnu-bash&logoColor=white)
