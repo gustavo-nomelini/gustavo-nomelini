@@ -12,17 +12,22 @@ I enjoy learning new technologies and continuously improving my coding skills. �
 
 # What I do:
 ☕️ **Java Development:** Strong proficiency in developing back-end applications and services.
+  - Java Virtual Machine (JVM) 
+  - API Web Services, Servlets, JavaServer Pages, JavaBeans
+  - Spring Framework, Spring Boot, Spring MVC
+  - Java Persistence API (JPA), Hibernate
+  - JUnit
 
 🎓 **Software Engineering Student:** Exploring the world of software design, architecture, and development best practices.
 
 💻 **Tech Enthusiast:** Keen on learning about new tools and frameworks to enhance my development toolkit.
 
 # What I’m working on:
-📘 Improving my knowledge of data structures and algorithms.
+📘 Improving my knowledge of Algorithms, Data Structures and Databases.
 
-💡 Working on various Java projects to hone my skills.
+💡 Working on various Java projects to hone my skills and improve my Portfolio.
 
-🌱 Learning about cloud computing and DevOps principles.
+🌱 Learning about Clean Code, Agile Methodologies, Cloud computing and DevOps principles.
 
 # Let's Connect!
 💼 Open to work as a Java Developer, including freelances
