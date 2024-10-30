@@ -13,7 +13,8 @@ I enjoy learning new technologies and continuously improving my coding skills. �
 # What I do:
 ☕️ **Java Development:** Strong proficiency in developing back-end applications and services.
   - Java Virtual Machine (JVM) 
-  - API Web Services, Servlets, JavaServer Pages, JavaBeans
+  - API Web Services, Servlets, JavaBeans
+  - JavaServer Pages, JavaServer Faces
   - Spring Framework, Spring Boot, Spring MVC
   - Java Persistence API (JPA), Hibernate
   - JUnit
