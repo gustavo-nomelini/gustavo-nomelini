@@ -83,8 +83,8 @@ I enjoy learning new technologies and continuously improving my coding skills. ð
 ## ðŸ“« Como me Encontrar | How to Reach Me
 - **Email**: [gustavolnomelini@gmail.com](mailto:gustavolnomelini@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gustavo-lopes-nomelini-144bb1212/)
-- **Portfolio**: [NextJS Portfolio published in Vercel](https://www.portfolio-prodbygus.vercel.app)
-- **Blog**: [Astro Blog published in Vercel](https://www.blog-prodbygus.vercel.app)
+- **Portfolio**: [NextJS Portfolio published in Vercel](https://portfolio-prodbygus.vercel.app)
+- **Blog**: [Astro Blog published in Vercel](https://blog-prodbygus.vercel.app)
 
 ## Linguagens, Ferramentas e Frameworks
 
