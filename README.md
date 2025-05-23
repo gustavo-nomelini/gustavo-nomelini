@@ -3,9 +3,9 @@
 ## 🇧🇷 PT - BR
 👋 Olá, meu nome é Gustavo Lopes Nomelini, sou de Cascavel-Paraná, Brasil
 
-Atualmente trabalho na Stein Telecomunicações como Desenvolvedor JavaScript Júnior
+Atualmente trabalho como Instrutor de Informática Concursado pela Prefeitura Municipal de Cascavel
 
-Sou Desenvolvedor Júnior estudando Engenharia de Software.
+Sou um Desenvolvedor estudando Engenharia de Software.
 
 Minha paixão está em construir soluções de software escaláveis, eficientes e robustas.
 
@@ -14,9 +14,9 @@ Gosto de aprender novas tecnologias e melhorar continuamente minhas habilidades 
 ## 🇺🇸 EN - US
 👋 Hi there, my name is Gustavo Lopes Nomelini, I'm from Cascavel-Paraná, Brasil
 
-Actually working at Stein Telecomunicações as a Junior JavaScript Developer
+I currently work as a Certified IT Instructor for the Municipal Government of Cascavel
 
-I'm a Junior Developer currently studying Software Engineering.
+I'm a Developer currently studying Software Engineering.
 
 My passion lies in building scalable, efficient, and robust software solutions.
 
